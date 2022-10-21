@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://cdn.pixabay.com/photo/2017/03/18/16/23/nintendo-switch-2154437_960_720.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://blog.facialix.com/wp-content/uploads/2021/06/image_750x_5ec3723659ab5.jpg" alt="Logo" width=1200 height=300>
 </p> 
 <br>
 Unity es un motor de desarrollo para la creación de videojuegos que ofrece multitud de funcionalidades para desarrolladores,
@@ -40,7 +40,7 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
   * > [Prueba_5](https://drive.google.com/file/d/1RbbMsv6-rWMo2GrGdV-AzK0IzH92sywv/view?usp=sharing)
 
 ## Autor
-- Docente : Barron Rodriguez Grabiel
+
 - Alumna  : Eva Quintero Carrillo - 1217100824
 
 ## Copyright
