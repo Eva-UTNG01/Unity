@@ -8,7 +8,7 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
 
 ## Contenido
 - [Código Fuente](#código-fuente)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Copyright](#copyright)
 
 
