@@ -33,6 +33,12 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
   * > [Desafío 3 Ballons, Bombs Y Booleans](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%203%20Sound%20and%20Effects/Desafio03Ballon)
   * > [Video 3 - Ballons, Bombs Y Booleans](https://drive.google.com/file/d/1zQXnNWbwsz4UNS-TsPR4kwJcAzGdDsxU/view?usp=sharing)
   * > [Prueba 3](https://drive.google.com/file/d/1rRea_DQJ2RbG9DEBfZiXmFSHLk06a0cG/view?usp=sharing)
+  * Lección 4-GamePlay Mechanics
+  * > [Tutorial 4 GamePlay Mechanics](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%204%20GamePlay%20Mechanics/Lecci%C3%B3n%204%20User%20GamePlay%20Mechanics)
+  * > [Laboratorio 4 Basic GamePlay](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%204%20GamePlay%20Mechanics/Laboratorio%2004-%20BasicGamePlay)
+  * > [Desafío 4 Soccer Scripting](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%204%20GamePlay%20Mechanics/Challenge04%20Soccer%20Scripting)
+  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1ArDFyJGrE0rPBrxwdBEfS-_uhnWCC9Wq/view?usp=share_link)
+  * > [Prueba 4](https://drive.google.com/file/d/1pvYxULslBPBk8q61_Y-IFPCM8T4deeIF/view?usp=share_link)
 * Lección 5-User Interface
   * > [Tutorial_5 User Interface](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%205%20User%20Interface/Leccion05UserInterface)
   * > [Desafío_5 Whack-a-Food](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%205%20User%20Interface/Desafio05WhackFood)
