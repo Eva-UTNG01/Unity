@@ -14,9 +14,9 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
 ## Introducción al juego
 
 * **Nombre del proyecto**
-Subway run
+    * Subway run
 * **Objetivo**
-Obtener los diamantes y esquivar los vagones que se acercan, sin chocar contra ellos.
+    * Obtener los diamantes y esquivar los vagones que se acercan, sin chocar contra ellos.
 * **Plataforma:**
     *  Desktop
 * **Género:** 
