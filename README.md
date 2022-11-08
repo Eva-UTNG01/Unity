@@ -17,11 +17,11 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
 Subway run
 * **Objetivo**
 Obtener los diamantes y esquivar los vagones que se acercan, sin chocar contra ellos.
-* **Plataforma: **
+* **Plataforma:**
     *  Desktop
 * **Género:** 
     * Aventura
-* **Clasificación: **
+* **Clasificación:**
     * Contenido para todas las edades
 * **Objetos especiales:** 
     - Sonido y partículas
