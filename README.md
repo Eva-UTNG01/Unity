@@ -7,9 +7,11 @@ Unity es un motor de desarrollo para la creación de videojuegos que ofrece mult
 que también se ha utilizado en realidad virtual. En este trayecto, aprendí sobre iluminación, animación, audio, interfaz de usuario y otras habilidades creativas.
 
 ## Contenido
+- [Introducción al juego](#IntroducciónJuego)
 - [Código Fuente](#código-fuente)
 - [Autor](#autor)
 - [Copyright](#copyright)
+## Introducción al juego
 
 
 
