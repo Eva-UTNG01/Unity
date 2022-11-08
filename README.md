@@ -35,8 +35,9 @@ Había un niño que le encantaban los trenes pero también jugar con el celular,
 El propósito del jugador es recolectar los diamantes sin chocar con los trenes que aparecen. Sí el jugador choca se termina el juego, pero si el jugador gana 80 diamantes ganará la partida. Se tendrán 3 botones Fácil, Medio y Difícil cualquiera de estos botones aumentará la velocidad dependiendo el valor agregado. En caso del nivel Difícil se agregan obstáculos los cuales tendrán que ser brindados por el jugador.
 
 * **Pantallas del juego:**
+<p align="center">
 <img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/prototipo.png" alt="prototipo" width=450 height=300>
-
+</p> 
 * **Plan de creación de Videojuego:**
 https://sharing.clickup.com/45039402/g/h/1ayfta-145/9f08e23f2608c2a
 <p align="center">
