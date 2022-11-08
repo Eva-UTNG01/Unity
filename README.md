@@ -41,7 +41,7 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
 * **Plan de creación de Videojuego:**
 https://sharing.clickup.com/45039402/g/h/1ayfta-145/9f08e23f2608c2a
 <p align="center">
-<img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/gantt.png" alt="gantt" width=450 height=300>
+<img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/ganttGame.png alt="gantt" width=450 height=300>
 </p> 
 
 **Autores:**
