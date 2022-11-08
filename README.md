@@ -13,6 +13,34 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
 - [Copyright](#copyright)
 ## Introducción al juego
 
+* Nombre del proyecto
+Subway run
+* Objetivo
+Obtener los diamantes y esquivar los vagones que se acercan, sin chocar contra ellos.
+* Plataforma: Desktop
+* Género: Aventura
+* Clasificación: Contenido para todas las edades
+* Objetos especiales: Sonido y partículas
+* Personajes: Lee Yohu (Personaje que corre)
+* Escenario: En la ciudad
+* Historia
+Había un niño que le encantaban los trenes pero también jugar con el celular, en su recámara tenía diferentes trenes y diferentes vagones. Es por ello que nació la idea del juego Subway Run el cual  se muestran algunos trenes, vagones y se incluyeron algunos diamantes para recolectar.
+* Reglas del juego:
+El propósito del jugador es recolectar los diamantes sin chocar con los trenes que aparecen. Sí el jugador choca se termina el juego, pero si el jugador gana 80 diamantes ganará la partida. Se tendrán 3 botones Fácil, Medio y Difícil cualquiera de estos botones aumentará la velocidad dependiendo el valor agregado. En caso del nivel Difícil se agregan obstáculos los cuales tendrán que ser brindados por el jugador.
+
+* Pantallas del juego:
+<img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/prototipo.png" alt="prototipo" width=450 height=300>
+
+* Plan de creación de Videojuego:
+https://sharing.clickup.com/45039402/g/h/1ayfta-145/9f08e23f2608c2a
+<p align="center">
+<img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/gantt.png" alt="gantt" width=450 height=300>
+</p> 
+
+Autores:
+* Eva Quintero Carrillo                   1217100824
+* Raúl Alberto Rodriguez Flores           1219100366
+
 
 
 ## Código Fuente
