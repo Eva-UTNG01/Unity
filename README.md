@@ -46,9 +46,6 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
 <img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/ganttGame.png" alt="gantt" width=450 height=300>
 </p> 
 
-* **Presentación Juego:**
-    * > [Subway rum](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
-
 
 **Autores:**
 * Eva Quintero Carrillo                   1217100824
@@ -88,6 +85,10 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
   * > [Laboratorio 5 SwapYourAssets](https://github.com/Eva-UTNG01/Unity/tree/main/Lecci%C3%B3n%205%20User%20Interface/Laboratorio-05SwapYourAssets)
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1K_4r4kULHy_fAUvnXtTcBIY0xbDpJPnd/view?usp=sharing)
   * > [Prueba_5](https://drive.google.com/file/d/1RbbMsv6-rWMo2GrGdV-AzK0IzH92sywv/view?usp=sharing)
+* Juego Subway Run 
+    * **Presentación Juego:**
+    * > [Subway rum](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
+
 
 ## Autor
 
