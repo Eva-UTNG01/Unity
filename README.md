@@ -16,7 +16,8 @@ que también se ha utilizado en realidad virtual. En este trayecto, aprendí sob
 * **Nombre del proyecto**
     * Subway run
 * **Objetivo**
-    * Obtener los diamantes y esquivar los vagones que se acercan, sin chocar contra ellos.
+    *El objetivo de este juego es el poder tener un juego que te pueda distraer ya que este contara con varios niveles los cuales serán muy interesantes, ya que se tienen que obtener diamantes durante el juego ya que el player irá corriendo esquivando los trenes que se acercan. Y ahí mismo le irán apareciendo los diamantes que tiene que recolectar y con el paso del progreso del juego y el nivel elegido será más difícil ya que tendrá que esquivar los trenes e ir brincando los obstáculos que aparecerán
+
 * **Plataforma:**
     *  Desktop
 * **Género:** 
