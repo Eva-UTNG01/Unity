@@ -46,6 +46,10 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
 <img src="https://github.com/Eva-UTNG01/Unity/blob/main/img/ganttGame.png" alt="gantt" width=450 height=300>
 </p> 
 
+** Presentación Juego **
+    * > [Subway rum](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
+
+
 **Autores:**
 * Eva Quintero Carrillo                   1217100824
 * Raúl Alberto Rodriguez Flores           1219100366
