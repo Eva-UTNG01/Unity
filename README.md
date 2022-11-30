@@ -88,7 +88,8 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
 * Juego Subway Run 
     * **Presentación Juego:**
     * > [Subway rum](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
-
+    * **Juego:**
+    * > []()
 
 ## Autor
 
