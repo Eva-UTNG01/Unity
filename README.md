@@ -86,10 +86,10 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1K_4r4kULHy_fAUvnXtTcBIY0xbDpJPnd/view?usp=sharing)
   * > [Prueba_5](https://drive.google.com/file/d/1RbbMsv6-rWMo2GrGdV-AzK0IzH92sywv/view?usp=sharing)
 * Juego Subway Run 
-    * **Presentación Juego:**
-    * > [Subway rum](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
+    
+    * > [Presentación Juego](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
     * **Juego:**
-    * > []()
+    * > [Subway run juego](https://drive.google.com/file/d/1oC_jjI7CTR6Ym2_RyqdjJ_JldoHFSplP/view)
 
 ## Autor
 
