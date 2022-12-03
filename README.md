@@ -90,7 +90,7 @@ El propósito del jugador es recolectar los diamantes sin chocar con los trenes 
     * > [Presentación Juego](https://docs.google.com/presentation/d/1fhFmTtCCqzLlUkOI_aqinRCfgJC8vdFttn8bm-Yc1jM/edit?usp=sharing)
     * **Juego:**
     * > [Subway run juego](https://drive.google.com/file/d/1oC_jjI7CTR6Ym2_RyqdjJ_JldoHFSplP/view)
-
+    * > [Juego-con Deploy](https://drive.google.com/file/d/1f5qjYhKcIDdien97MlBf3uiWTU7rQQv5/view?usp=share_link)
 ## Autor
 
 - Alumna  : Eva Quintero Carrillo - 1217100824
